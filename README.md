@@ -7,3 +7,8 @@
 - https://www.gsocorganizations.dev/organization/oppia-foundation/
 - https://www.gsocorganizations.dev/organization/openwisp/
 - https://www.gsocorganizations.dev/organization/hydra-ecosystem/
+- https://www.gsocorganizations.dev/organization/joomla!/
+
+### Open Source Organisations to go through
+- https://www.gsocorganizations.dev/organization/wikimedia-foundation/
+- https://www.gsocorganizations.dev/organization/joomla!/
